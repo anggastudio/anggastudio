@@ -30,15 +30,17 @@ My focus is building **useful software that actually ships**.
 
 ### 🌐 Web
 
-* React
+* Vite + React
+* Next
+* Vinext
 * TypeScript
 * TailwindCSS
 * shadcn/ui
-* Vite
 
 ### 🛠 Backend (when needed)
 
-* Laravel
+* Express.js
+* Hono.js
 * REST APIs
 * Authentication Systems
 
@@ -46,8 +48,8 @@ My focus is building **useful software that actually ships**.
 
 * Bluetooth communication
 * ESC/POS thermal printers
-* Firebase (FCM)
 * Payment related workflows
+* Small Language Model Application
 
 ---
 
@@ -63,28 +65,16 @@ Examples of tools inside the platform:
 
 * JSON Formatter
 * Prompt Generator
-* Developer utilities and experiments
+* Developer utilities
 
 ---
 
-### 🖨 printamajs
+### Android Library
 
-JavaScript library for sending **ESC/POS commands to Bluetooth thermal printers** from modern web apps.
+I created an Android Library for Printing
 
-Designed for React / Vite based applications.
-
----
-
-### 📱 Merchant Payment App
-
-Android application used by merchants to manage payments.
-
-Features include:
-
-* Real-time payment status updates
-* Transaction history
-* Merchant workflows
-* Reliable mobile UX
+* Printama - https://github.com/anggastudio/Printama
+* Sample App - https://play.google.com/store/apps/details?id=com.anggastudio.printama_sample
 
 ---
 
@@ -94,15 +84,8 @@ I enjoy building small games and prototypes.
 
 Including:
 
-* pixel games
-* platformer experiments
-* web-based mini games
-
----
-
-## 📊 GitHub Stats
-
-![anggstudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=anggastudio\&show_icons=true\&hide=\["prs","issues","contribs"])
+* pixel games - https://play.google.com/store/apps/details?id=com.anggastudio.game2048pixel
+* web-based mini games - https://cacingnaga.astu.app/ - https://redsnake.astu.app/
 
 ---
 
@@ -110,9 +93,6 @@ Including:
 
 LinkedIn
 https://www.linkedin.com/in/aaanggapratama/
-
-Instagram
-https://www.instagram.com/angga.studio/
 
 ---
 
