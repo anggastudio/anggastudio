@@ -1,222 +1,132 @@
-<h1 align="center">Hi 👋 I'm Angga</h1>
-
-<p align="center">
-Software Engineer building mobile apps, developer tools, and experimental products.
-</p>
-
-<p align="center">
-React Native • Android • Web Applications • Indie Projects
-</p>
+<div align="center">
+  <h1>Angga Pratama</h1>
+  <p>Software Engineer focused on mobile apps, developer tools, and experimental products.</p>
+  <p><strong>React Native • Android • Web Applications • Indie Projects</strong></p>
+</div>
 
 ---
 
-## 🚀 About Me
+## Profile
 
-I'm **Angga Pratama**, a Software Engineer focusing on **Mobile and Web Applications**.
+I build practical software across mobile and web, with a focus on speed, clarity, and maintainability.
 
-I enjoy turning ideas into working software, including:
+Core work includes:
 
-* Mobile applications
-* Developer tools
-* Software libraries
-* Web platforms
-* Small experimental games
-
-My focus is simple: **build useful software and ship it.**
+- Mobile applications
+- Developer tools
+- Software libraries
+- Web platforms
+- Small game experiments
 
 ---
 
-## ⚡ Highlights
+## Focus Areas
 
 <table>
-<tr>
-<td width="33%">
-
-📱 **Mobile Engineer**
-
-React Native
-Android
-Flutter
-Capacitor
-
-</td>
-
-<td width="33%">
-
-🧰 **Tool Builder**
-
-Building developer utilities and web tools.
-
-Platform:
-https://astu.app
-
-</td>
-
-<td width="33%">
-
-🖨 **Hardware Integration**
-
-Bluetooth communication
-ESC/POS printing
-POS related systems
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Mobile Engineering</strong><br/><br/>
+      React Native<br/>
+      Android<br/>
+      Flutter<br/>
+      Capacitor
+    </td>
+    <td width="33%" valign="top">
+      <strong>Tooling</strong><br/><br/>
+      Developer utilities and web tools built for real workflows.<br/><br/>
+      <a href="https://astu.app">astu.app</a>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Hardware Integration</strong><br/><br/>
+      Bluetooth communication<br/>
+      ESC/POS thermal printing<br/>
+      POS-related systems
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <table>
-<tr>
-<td width="33%">
-
-### 📱 React Native
-
-Cross platform mobile apps using JavaScript and TypeScript.
-
-</td>
-
-<td width="33%">
-
-### 🤖 Android
-
-Kotlin, Jetpack, MVVM, Compose.
-
-</td>
-
-<td width="33%">
-
-### 🦋 Flutter
-
-Dart based cross platform development.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%">
-
-### ⚡ Capacitor
-
-Hybrid mobile apps using web technologies.
-
-</td>
-
-<td width="33%">
-
-### 🌐 Web
-
-React, Next, Vite, Vinext, TypeScript.
-
-</td>
-
-<td width="33%">
-
-### 🛠 Backend
-
-Express.js, Hono.js, REST APIs.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%">
-
-### 🔌 Hardware
-
-Bluetooth & ESC/POS printers.
-
-</td>
-
-<td width="33%">
-
-### 🧠 AI Apps
-
-Small Language Model based applications.
-
-</td>
-
-<td width="33%"></td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>React Native</strong><br/><br/>
+      Cross-platform apps with JavaScript and TypeScript.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Android</strong><br/><br/>
+      Kotlin, Jetpack, MVVM, and Compose.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Flutter</strong><br/><br/>
+      Dart-based cross-platform app development.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Capacitor</strong><br/><br/>
+      Hybrid apps using modern web technologies.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Web</strong><br/><br/>
+      React, Next.js, Vite, Vinext, TypeScript.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Backend</strong><br/><br/>
+      Express.js, Hono.js, REST APIs.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Hardware</strong><br/><br/>
+      Bluetooth and ESC/POS printer workflows.
+    </td>
+    <td width="33%" valign="top">
+      <strong>AI Applications</strong><br/><br/>
+      Small language-model-based products.
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
 </table>
 
 ---
 
-## 🧩 Projects
+## Selected Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🧠 astu.app
-
-Developer tools playground.
-
-A collection of small utilities and experiments built for developers.
-
-https://astu.app
-
-Examples:
-
-* JSON Formatter
-* Prompt Generator
-* Developer utilities
-
-</td>
-
-<td width="50%">
-
-### 🖨 Printama
-
-Android library for **ESC/POS thermal printer communication**.
-
-GitHub
-https://github.com/anggastudio/Printama
-
-Sample App
-https://play.google.com/store/apps/details?id=com.anggastudio.printama_sample
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎮 2048 Pixel
-
-Pixel style 2048 game published on Play Store.
-
-https://play.google.com/store/apps/details?id=com.anggastudio.game2048pixel
-
-</td>
-
-<td width="50%">
-
-### 🐍 Web Games
-
-Small browser game experiments.
-
-Cacing Naga
-https://cacingnaga.astu.app
-
-Red Snake
-https://redsnake.astu.app
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>astu.app</strong><br/><br/>
+      A practical playground of tools, games, and devkits.<br/><br/>
+      <a href="https://astu.app">Visit astu.app</a><br/><br/>
+      Includes JSON Formatter, Prompt Generator, and other developer utilities.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Printama</strong><br/><br/>
+      Android library for ESC/POS thermal printer integration.<br/><br/>
+      <a href="https://github.com/anggastudio/Printama">GitHub Repository</a><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.anggastudio.printama_sample">Sample App on Play Store</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>2048 Pixel</strong><br/><br/>
+      Pixel-style 2048 game published on Play Store.<br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.anggastudio.game2048pixel">View on Play Store</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Web Games</strong><br/><br/>
+      Lightweight browser game experiments.<br/><br/>
+      <a href="https://cacingnaga.astu.app">Cacing Naga</a><br/>
+      <a href="https://redsnake.astu.app">Red Snake</a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 💬 Contact
-
-LinkedIn
-https://www.linkedin.com/in/aaanggapratama/
-
----
-
-<p align="center">
-If you're building something interesting and need someone who can turn ideas into working software, feel free to reach out.
-</p>
+<div align="center">
+  Open to collaborations on product engineering, developer tooling, and mobile/web platforms.
+</div>
