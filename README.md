@@ -1,99 +1,222 @@
-# Hi there 👋 I'm Angga
+<h1 align="center">Hi 👋 I'm Angga</h1>
 
-I build software that solves real problems.
+<p align="center">
+Software Engineer building mobile apps, developer tools, and experimental products.
+</p>
 
-I'm **Angga Pratama**, a Software Engineer focusing on **Mobile and Web Applications**.
-I enjoy turning ideas into working products, from **mobile apps** to **developer tools** and small experiments.
+<p align="center">
+React Native • Android • Web Applications • Indie Projects
+</p>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-* 📱 Mobile App Development
-* 🌐 Modern Web Applications
-* ⚡ Developer Tools
-* 🧩 Product Prototyping
-* 🎮 Game Experiments
+I'm **Angga Pratama**, a Software Engineer focusing on **Mobile and Web Applications**.
 
-My focus is building **useful software that actually ships**.
+I enjoy turning ideas into working software, including:
+
+* Mobile applications
+* Developer tools
+* Software libraries
+* Web platforms
+* Small experimental games
+
+My focus is simple: **build useful software and ship it.**
+
+---
+
+## ⚡ Highlights
+
+<table>
+<tr>
+<td width="33%">
+
+📱 **Mobile Engineer**
+
+React Native
+Android
+Flutter
+Capacitor
+
+</td>
+
+<td width="33%">
+
+🧰 **Tool Builder**
+
+Building developer utilities and web tools.
+
+Platform:
+https://astu.app
+
+</td>
+
+<td width="33%">
+
+🖨 **Hardware Integration**
+
+Bluetooth communication
+ESC/POS printing
+POS related systems
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack
 
-### 📱 Mobile
+<table>
+<tr>
+<td width="33%">
 
-* React Native
-* Android (Kotlin, Jetpack, MVVM, Compose)
-* Flutter
-* Capacitor
+### 📱 React Native
+
+Cross platform mobile apps using JavaScript and TypeScript.
+
+</td>
+
+<td width="33%">
+
+### 🤖 Android
+
+Kotlin, Jetpack, MVVM, Compose.
+
+</td>
+
+<td width="33%">
+
+### 🦋 Flutter
+
+Dart based cross platform development.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+
+### ⚡ Capacitor
+
+Hybrid mobile apps using web technologies.
+
+</td>
+
+<td width="33%">
 
 ### 🌐 Web
 
-* Vite + React
-* Next
-* Vinext
-* TypeScript
-* TailwindCSS
-* shadcn/ui
+React, Next, Vite, Vinext, TypeScript.
 
-### 🛠 Backend (when needed)
+</td>
 
-* Express.js
-* Hono.js
-* REST APIs
-* Authentication Systems
+<td width="33%">
 
-### ⚙️ Other Things I Work With
+### 🛠 Backend
 
-* Bluetooth communication
-* ESC/POS thermal printers
-* Payment related workflows
-* Small Language Model Application
+Express.js, Hono.js, REST APIs.
+
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+
+### 🔌 Hardware
+
+Bluetooth & ESC/POS printers.
+
+</td>
+
+<td width="33%">
+
+### 🧠 AI Apps
+
+Small Language Model based applications.
+
+</td>
+
+<td width="33%"></td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Selected Projects
+## 🧩 Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🧠 astu.app
 
-A playground of useful developer tools and experiments.
+Developer tools playground.
 
-🌐 https://astu.app
+A collection of small utilities and experiments built for developers.
 
-Examples of tools inside the platform:
+https://astu.app
+
+Examples:
 
 * JSON Formatter
 * Prompt Generator
 * Developer utilities
 
+</td>
+
+<td width="50%">
+
+### 🖨 Printama
+
+Android library for **ESC/POS thermal printer communication**.
+
+GitHub
+https://github.com/anggastudio/Printama
+
+Sample App
+https://play.google.com/store/apps/details?id=com.anggastudio.printama_sample
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 2048 Pixel
+
+Pixel style 2048 game published on Play Store.
+
+https://play.google.com/store/apps/details?id=com.anggastudio.game2048pixel
+
+</td>
+
+<td width="50%">
+
+### 🐍 Web Games
+
+Small browser game experiments.
+
+Cacing Naga
+https://cacingnaga.astu.app
+
+Red Snake
+https://redsnake.astu.app
+
+</td>
+</tr>
+</table>
+
 ---
 
-### Android Library
-
-I created an Android Library for Printing
-
-* Printama - https://github.com/anggastudio/Printama
-* Sample App - https://play.google.com/store/apps/details?id=com.anggastudio.printama_sample
-
----
-
-### 🎮 Game Experiments
-
-I enjoy building small games and prototypes.
-
-Including:
-
-* pixel games - https://play.google.com/store/apps/details?id=com.anggastudio.game2048pixel
-* web-based mini games - https://cacingnaga.astu.app/ - https://redsnake.astu.app/
-
----
-
-## 💬 Reach Me
+## 💬 Contact
 
 LinkedIn
 https://www.linkedin.com/in/aaanggapratama/
 
 ---
 
-If you're building something interesting and need someone who can **turn ideas into working software**, feel free to reach out.
+<p align="center">
+If you're building something interesting and need someone who can turn ideas into working software, feel free to reach out.
+</p>
