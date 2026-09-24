@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="1200" height="290" role="img" aria-label="Angga Pratama, Senior Mobile Engineer, Android, React Native, Flutter">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#FFFFFF"/><stop offset="58%" stop-color="#F6F8FA"/><stop offset="100%" stop-color="#EAF1F8"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#3DDC84"/><stop offset="38%" stop-color="#61DAFB"/>
+    <stop offset="72%" stop-color="#7F52FF"/><stop offset="100%" stop-color="#F5A623"/>
+  </linearGradient>
+  <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#1F2328" stroke-opacity="0.035" stroke-width="1"/>
+  </pattern>
+  <clipPath id="card"><rect width="1200" height="290" rx="16"/></clipPath>
+  <style>
+    .sweep { animation: slide 7s ease-in-out infinite; }
+    .halo  { animation: breathe 9s ease-in-out infinite; transform-origin: 1010px 120px; }
+    .blip  { animation: blink 2.6s ease-in-out infinite; }
+    @keyframes slide   { 0% { transform: translateX(-420px); } 55%,100% { transform: translateX(1200px); } }
+    @keyframes breathe { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    @keyframes blink   { 0%,100% { opacity: .25; } 50% { opacity: .9; } }
+    @media (prefers-reduced-motion: reduce) { .sweep, .halo, .blip { animation: none; } }
+  </style>
+</defs>
+
+<g clip-path="url(#card)">
+  <rect width="1200" height="290" fill="url(#bg)"/>
+  <rect width="1200" height="290" fill="url(#grid)"/>
+  <g class="halo">
+    <circle cx="1010" cy="120" r="210" fill="#61DAFB" fill-opacity="0.10"/>
+    <circle cx="1140" cy="250" r="150" fill="#3DDC84" fill-opacity="0.10"/>
+  </g>
+
+  <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">
+    <text x="64" y="68" fill="#3DDC84" font-size="13" font-weight="700" letter-spacing="3.4">SENIOR MOBILE ENGINEER</text>
+    <text x="64" y="128" fill="#0D1117" font-size="56" font-weight="800" letter-spacing="-1.4">Angga Pratama</text>
+    <text x="64" y="162" fill="#42505F" font-size="20" font-weight="500">Android, React Native, Flutter. Payments, devices, and the release pipeline behind them.</text>
+    <text x="64" y="188" fill="#6A7580" font-size="15">Mobile software that runs in production without daily support. Bogor, Indonesia (UTC+7).</text>
+    <g><rect x="64" y="206" width="170" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.85" stroke="#3DDC84" stroke-opacity="0.45"/><circle cx="79" cy="223" r="3.6" fill="#3DDC84"/><text x="90" y="228" fill="#42505F" font-size="13.5" font-weight="600">Shipping since 2016</text></g><g><rect x="244" y="206" width="193" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.85" stroke="#61DAFB" stroke-opacity="0.45"/><circle cx="259" cy="223" r="3.6" fill="#61DAFB"/><text x="270" y="228" fill="#42505F" font-size="13.5" font-weight="600">15 apps on Google Play</text></g><g><rect x="448" y="206" width="201" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.85" stroke="#A78BFA" stroke-opacity="0.45"/><circle cx="463" cy="223" r="3.6" fill="#A78BFA"/><text x="474" y="228" fill="#42505F" font-size="13.5" font-weight="600">34 projects on astu.app</text></g><g><rect x="658" y="206" width="193" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.85" stroke="#F5A623" stroke-opacity="0.45"/><circle cx="673" cy="223" r="3.6" fill="#F5A623"/><text x="684" y="228" fill="#42505F" font-size="13.5" font-weight="600">400+ payment terminals</text></g>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="936" y="52" width="112" height="190" rx="18" fill="#FFFFFF" stroke="#61DAFB" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="950" y="72" width="84" height="132" rx="7" fill="#61DAFB" fill-opacity="0.10"/>
+    <rect x="960" y="86" width="64" height="7" rx="3.5" fill="#3DDC84" fill-opacity="0.8"/>
+    <rect x="960" y="102" width="44" height="7" rx="3.5" fill="#61DAFB" fill-opacity="0.65"/>
+    <rect x="960" y="118" width="56" height="7" rx="3.5" fill="#7F52FF" fill-opacity="0.65"/>
+    <rect x="960" y="134" width="34" height="7" rx="3.5" fill="#61DAFB" fill-opacity="0.4"/>
+    <rect x="960" y="150" width="60" height="7" rx="3.5" fill="#3DDC84" fill-opacity="0.4"/>
+    <rect x="960" y="166" width="46" height="7" rx="3.5" fill="#F5A623" fill-opacity="0.45"/>
+    <circle class="blip" cx="992" cy="222" r="7" fill="#61DAFB"/>
+
+    <rect x="1072" y="92" width="80" height="128" rx="14" fill="#FFFFFF" stroke="#3DDC84" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="1086" y="110" width="52" height="36" rx="6" fill="#3DDC84" fill-opacity="0.16"/>
+    <rect x="1086" y="156" width="52" height="7" rx="3.5" fill="#0D1117" fill-opacity="0.16"/>
+    <rect x="1086" y="170" width="36" height="7" rx="3.5" fill="#0D1117" fill-opacity="0.12"/>
+    <rect x="1086" y="184" width="44" height="7" rx="3.5" fill="#0D1117" fill-opacity="0.12"/>
+  </g>
+
+  <rect x="0" y="283" width="1200" height="7" fill="url(#accent)"/>
+  <rect class="sweep" x="0" y="283" width="420" height="7" fill="url(#sweep)"/>
+</g>
+</svg>
