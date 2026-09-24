@@ -40,7 +40,7 @@ GROUPS = [
 
 CHAR_W = 8.05   # approx advance width at 14px for the fallback chain
 PAD_X, ICON, GAP, PILL_H, ROW_GAP, COL_GAP = 13, 17, 9, 34, 12, 9
-WIDTH, MARGIN = 1200, 28
+WIDTH, MARGIN = 880, 22
 
 
 def pill_w(label):
